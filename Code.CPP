@@ -7,7 +7,7 @@
 #include<stdlib.h>
 #include<process.h>
 #include<math.h>
-int side=10,top=10,i=30,j=30,l=0,q,score,x,y;
+int side=10,top=10,i=30,j=30,l=0,q,score,x,y,z;
 int t=300,z=230,m=200;
 
 void page1();
